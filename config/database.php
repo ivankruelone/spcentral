@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '192.168.1.221';
+$db['default']['hostname'] = '0.0.0.0';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'hachi1417#';
+$db['default']['password'] = '********';
 $db['default']['database'] = 'spcentral';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
