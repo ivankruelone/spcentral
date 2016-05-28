@@ -51,7 +51,7 @@
                                         </tbody>
                                         <tfoot>
                                             <tr>
-                                                <td colspan="5">Total</td>
+                                                <td colspan="6">Total</td>
                                                 <td style="text-align: right;"><?php echo number_format($req, 0); ?></td>
                                                 <td style="text-align: right;"><?php echo number_format($sur, 0); ?></td>
                                                 <td style="text-align: right;"><?php echo number_format($res, 0); ?></td>
